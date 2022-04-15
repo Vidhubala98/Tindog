@@ -1,2 +1,1 @@
-# Tindog
-Tindog Application : HTML, CSS, Bootstrap
+TinDog Starting Files
